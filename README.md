@@ -2,8 +2,8 @@
 Linux Game Server Easy Install, is a system like Linux Game Server Managers. Its job is to make it easier to install a game server on Linux operating systems.
 
 # LINKS
-LGSEI WEBSITE: https://systemmonitor.win
-LGSM WEBSITE: https://gameservermanagers.com
+- LGSEI WEBSITE: https://systemmonitor.win
+- LGSM WEBSITE: https://gameservermanagers.com
 
 # NOTE: This is a project in the statup phase, please be patient for the system to be done
 
