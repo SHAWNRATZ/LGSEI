@@ -18,4 +18,6 @@ LGSM WEBSITE: https://gameservermanagers.com
 - Cluster ready
 - System is capable of running multiple servers
 - System is open source
-- 
+
+
+# © ALL RIGHTS RESERVED SHAWN RATZ | LGSEI
