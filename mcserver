@@ -3,7 +3,7 @@
 # LGSEI started 2017
 
 ACTION=$1
-RAM="2048"
+RAM="1024"
 
 if [[ $1 == "start" ]]; then
 	tmux new -s mconsole -d
