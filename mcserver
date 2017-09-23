@@ -1,0 +1,13 @@
+#!/bin/bash
+# (C) Copyright 2017 Kristian K.
+# LGSEI started 2017
+
+ACTION=$1
+RAM="2048"
+
+if [[ $1 == "start" ]]; then
+	tmux new -s mconsole -d
+	tmux send -t mconsole clear ENTER
+	tmux send -t mconsole 'java\ -Xmx'$RAM'M\ -Xms'$RAM'M\ -jar\ serverfiles/minecraft_server.jar\ nogui ENTER
+fi
+
